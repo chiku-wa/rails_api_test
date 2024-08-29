@@ -1,0 +1,3 @@
+align_chained_calls:yes
+parens_in_def :yes
+trailing_commas:always
